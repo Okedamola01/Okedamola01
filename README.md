@@ -23,7 +23,7 @@ I'm well-versed in **MongoDB**, a popular NoSQL database. I've designed schemas,
 
 ## My Projects
 
-- [Car rental app](Link): A car rental API made with the MERN stack that allows users to look through cars available in the DB and rent anyone of their choice.
+- [Car rental app](https://github.com/Okedamola01/car_rental_app): A car rental API made with the MERN stack that allows users to look through cars available in the DB and rent anyone of their choice.
 <!--- [Project Name](Link): Another project you've worked on, showcasing your skills and accomplishments.-->
 
 ## Connect with Me
